@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Magic-lalla122
-- 👀 I’m interested in Cybersecurity and Machine Learning 
-- 🌱 I’m a beginner 
+- 👋 Hi, I’m Lalla
+-  I’m interested in Cybersecurity and networking, trying to built LLM skills
+searching for ideas and labs
 
 
 <!---
