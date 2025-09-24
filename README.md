@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lalla
--  I’m interested in Cybersecurity and networking, trying to built LLM skills
-searching for ideas and labs
+-  I’m interested in Cybersecurity and networking, searching for ideas and labs
+
 
 
 <!---
